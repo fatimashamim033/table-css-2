@@ -1,0 +1,70 @@
+
+body{
+  background-color: aquamarine;
+  background-image: url ('C:\Users\admin\Desktop\table.css\ggbJ0.png');
+
+}
+p{
+  border: 5px solid darkorchid;
+  width: 300px;
+  height: 50px;
+  padding: 10px;
+  margin: 10px;
+  background-color: lightgrey;
+}
+p:hover{
+  background-color: cadetblue;
+  color: crimson;
+}
+div.X{
+  border: 10px solid darkorchid;
+  margin: 30%;
+  padding: 5px;
+  border-radius: 25px 5px 25px 5px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-style: italic;
+  text-transform: capitalize;
+  position:relative;
+  top: -350px;
+}
+  h1 {
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+    background-color: lightgrey;
+    padding: 05px;
+    margin: 5px; 
+    text-align:center ;
+
+  }
+  h1:hover{
+    background-color: blueviolet;
+    color: rgb(0, 255, 115);
+  }
+  
+  table, th, td {
+    border: 2px solid darkorchid;
+  }
+  #A:hover {
+    background-color: blueviolet;
+    color: chartreuse;
+  }
+
+  th {
+    background-color: lightgrey; 
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th:hover {
+    background-color: rgb(69, 241, 92);
+    color: rgb(68, 3, 3); 
+  }
+  
+  
+  
+  
+  
+  
+  
